@@ -1,3 +1,7 @@
+<h1> A multifunctional Ecommerce Dashboard built using HTML,CSS,TailwindCSS,ReactJS and Syncfusion Components.
+<br>
+<img width="955" alt="Dashboard" src="https://user-images.githubusercontent.com/120587771/214784540-2cce159a-2ae3-4509-b7a6-cb80639296af.png">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
